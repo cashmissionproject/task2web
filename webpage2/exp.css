@@ -2,7 +2,7 @@ body {
 	text-align: center;
 }
 
-img {
+iframe {
 	width : 800px;
 	height: 450px;
 	object-fit: cover;
